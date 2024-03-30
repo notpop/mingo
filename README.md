@@ -14,6 +14,7 @@
 ## Contents
 
 - [Contents](#contents)
+- [Dependencies](#dependencies)
 - [Installation](#installation)
   - [Homebrew Tap](#homebrew-tap)
   - [`go install`](#go-install)
@@ -21,6 +22,9 @@
 - [Usage](#usage)
   - [Example](#example)
 - [LICENSE](#license)
+
+## Dependencies
+- Xcode: Version 15.1 or higher required.
 
 ## Installation
 
